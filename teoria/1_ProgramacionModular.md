@@ -88,3 +88,8 @@ Existen dos métodos para establecer el paso entre parámetros:
   la variable se comparte entre el programa y el subprograma y se puede modificar. Es decir, parámetros formales y actuales ocupan la misma dirección de memoria. 
 
 ![Visual de paso por valor y por referencia](images/java-reference-value.webp)
+
+## Librerías 
+La utilización de librerías en programación facilita enormemente las tareas de desarrollo, ya que son un conjunto de funciones y/o procedimientos ya codificadas y testeadas previamente que permiten la reutilización de código y además liberan al programador de tareas de codificación simples, repetitivas o de bajo nivel.
+
+A las librerías se les puede llamar desde cualquier otro programa y ejecutarán una tarea específica. Hoy día son un componente esencial en la programación y conocerlas será muy útil en el trabajo de un desarrollador.

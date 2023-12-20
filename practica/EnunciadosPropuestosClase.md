@@ -155,4 +155,74 @@ Y utilizando una función recursiva debe determinar y mostrar por pantalla el re
 
 [Solución](solucionesPropuestosClase/MultiplicacionRecursiva.java)
 
-## Contar 
+## Dibuja triángulo
+Usando métodos recursivos, consigue que la consola imprima un triángulo de altura introducida previamente por el 
+usuario como el siguiente:
+
+         *
+         **
+         ***
+
+[Solución](solucionesPropuestosClase/Triangulo.java)
+
+## Numero Invertido
+
+Crea un método recursivo que dado un número entero positivo, lo imprima invertido por pantalla.
+Por ejemplo si introdujéramos 540, por pantalla nos devolvería 045.
+
+[Solución](solucionesPropuestosClase/NumeroInvertido.java)
+
+## Suma Números
+
+Crea un programa con un método recursivo que calcule la suma de los primeros n números enteros positivos.
+
+[Solución](solucionesPropuestosClase/SumaNumeros.java)
+
+## Contar Dígitos
+
+Crea un programa con un método recursivo que obtenga la cantidad de dígitos de un número n mayor que 0.
+
+[Solución](solucionesPropuestosClase/ContarDigitos.java)
+
+## Suma Recursiva de un Array
+
+Crea un programa que con un método recursivo calcule la suma de todos los elementos de un array de números enteros
+
+[Solución](solucionesPropuestosClase/SumaRecursiva.java)
+
+# EJERCICIOS SOBRE ARRAYLIST Y VARARGS
+
+# ArrayList operaciones básicas
+
+Crea un programa en el que el usuario introduzca por teclado elementos en un ArrayList de tipo STRING hasta que introduzca una palabra clave que finalice la entrada de elementos, después se le mostrará un menú con una serie de opciones para que elija que quiere hacer. El menú volverá a mostrársele después de cada operación.
+
+- Opción 1: Mostrar la lista							
+- Opción 2: Agregar un elemento nuevo al ArrayList
+- Opción 3: Buscar un elemento y mostrar la posición (o posiciones) en la que se encuentra en caso de encontrarlo
+- Opción 4: Eliminar un elemento (se le preguntara si por índice, o si desea introducir una palabra y que, en caso de 
+  que exista en el ArrayList, sea eliminada)
+- Opción 5: Modificar un elemento (se le preguntara la palabra por la que se desea sustituir y se le preguntara si 
+  por índice, o si desea introducir una palabra y, en caso de que exista en el ArrayList, sea modificada por la que haya introducido)
+- Opción 6: Limpiar la lista
+- Opción 7: Ordenar la lista (la ordena y la muestra ordenada)		
+- Opción 8: Salir del programa	
+
+Cada opción debe de ser un método diferente, para hacer el programa lo más modular posible y así practicar métodos.
+
+Acordaos de ser lo más “User Friendly” posible, dando mensajes claros y respuestas, así como controlando posibles errores en inputs, etc.	
+
+[Solución](solucionesPropuestosClase/JugarConListas.java)
+
+## Calcular promedio
+
+Haz un programa que, mediante un método que acepte un numero variable de números en forma de argumento (VarArgs), devuelva el promedio de esos números.
+
+[Solución](solucionesPropuestosClase/CalcularPromedio.java)
+
+## Imprimir lista
+
+Crea un programa con un método que acepte un número indeterminado de argumentos de tipo texto y que los imprima por pantalla.
+
+[Solución](solucionesPropuestosClase/ImprimirLista.java)
+
+# EJERCICIOS SOBRES OBJETOS Y CLASES

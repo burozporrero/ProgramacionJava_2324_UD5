@@ -242,3 +242,12 @@ En el segundo, estamos importando a nuestro proyecto todas las clases que cuelga
 implican un total de 76 clases para Java 17.
 
 ¿Cómo podemos ver esta información? [Java API package java.util](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/package-summary.html)
+
+# MÓDULOS
+Para aquellos que quieran entrar en más detalle de agrupaciones de clases, también existen las agrupaciones de 
+paquetes o módulos.
+
+![Detalle de donde se muestra el módulo en la API](images/modulos.png)
+
+Os dejo la página de Oracle en la que se detalla su utilidad:
+[https://www.oracle.com/es/corporate/features/understanding-java-9-modules.html](https://www.oracle.com/es/corporate/features/understanding-java-9-modules.html)

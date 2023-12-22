@@ -226,3 +226,38 @@ Crea un programa con un método que acepte un número indeterminado de argumento
 [Solución](solucionesPropuestosClase/ImprimirLista.java)
 
 # EJERCICIOS SOBRES OBJETOS Y CLASES
+
+## Probar estudiante
+
+Crear una clase 'Estudiante' que contenga atributos como nombre, edad y grado.
+
+Luego, instancia objetos de esta clase para representar varios estudiantes, asignándoles valores y mostrando información como 'nombre, edad y grado' mediante métodos de la clase.
+
+[Solución](solucionesPropuestosClase/estudiantes/PruebaEstudiantes.java)
+
+## Gestión trabajadores
+
+Crea un programa que pida al usuario por pantalla una cantidad de trabajadores.
+
+Después que pregunte por trabajador sus datos personales (Nombre, Edad, Sueldo) y en qué proyecto (Nombre,
+descripción) está trabajando.
+
+Para finalizar, que lo muestre por pantalla.
+
+- Cada vez que se pregunten los datos de un trabajador tiene que reproducirse este mensaje
+
+        Datos de trabajador 1:
+        Preguntar datos
+        Datos proyecto trabajador 1:
+        Preguntar datos
+
+- Si no se introducen datos en un trabajador cuando se muestren los datos por pantalla tiene que salir un texto que
+  diga “vacio” (utiliza 'isEmpty')
+- Cuando se muestre al final la información por pantalla se tiene que mostrar en este orden
+
+      Datos de trabajador 1:
+      información
+      Datos proyecto trabajador 1:
+      información
+
+[Solución](solucionesPropuestosClase/trabajadores/GestionTrabajadores.java)

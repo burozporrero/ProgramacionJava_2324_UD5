@@ -261,3 +261,40 @@ Para finalizar, que lo muestre por pantalla.
       información
 
 [Solución](solucionesPropuestosClase/trabajadores/GestionTrabajadores.java)
+
+## Cuenta bancaria
+
+Crea una clase llamada CuentaBancaria con los siguientes atributos:
+- Número de cuenta
+- Saldo
+
+Implementa métodos para depositar y retirar dinero de la cuenta. Asegúrate de que el saldo no pueda volverse negativo.
+Crea otro método que imprima en la consola el saldo actual de la cuenta.
+
+En main, crea al menos dos objetos, realiza algunas transacciones y muestra el saldo actual después de cada transacción.
+
+[Solución](solucionesPropuestosClase/banco/GestionBanco.java)
+
+## Librería
+
+Crear una clase Libro que contenga los siguientes atributos:
+- ISBN
+- Título
+- Autor
+- Número de páginas
+
+Deben de haber al menos 6 libros. Que le pidamos al usuario: el título o el ISBM del libro. Y muestre por pantalla la información del libro.
+
+## Personajes y atributos
+
+![imagen de ejemplo](imagen/personaje.jpg)
+
+A partir del ejemplo de como crear un constructor. A partir de la imagen de Ejemplo tienes que replicarlo con un constructor en Java, puede ser el mismo de la imagen o un personaje completamente nuevo.
+
+Crea un constructor con la clase Personaje.
+
+Con los atributos: Nombre, arma1, arma2, escudo, torso, Acessorio1, accessorio2.
+
+Y otra clase Estadistica con los siguientes atributos: PV (puntos de vida), PH (Puntos de habilidad), AtqFis (ataque físico), AtqElem (Ataque elemental), DefFis (Defensa Física), DefElem(Defensa Elemental), Prec (Precisión), Vel (Velocidad), Cric (Crítico) y Evas (Evasión).
+
+El programa debe crear dos o más personajes y preguntar al usuario que atributo quiere saber he imprimirlo por pantalla.

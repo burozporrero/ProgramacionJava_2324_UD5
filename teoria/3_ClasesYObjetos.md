@@ -160,6 +160,8 @@ Con la clase coche declarada de esta manera, ya no podríamos crear un objeto co
 
 Para poder mantener el constructor vacío tendremos que esperar a la UD6.
 
+### EJEMPLO: [clases y objetos](GestionPianos.java)
+
 # PAQUETES (PACKAGES)
 
 Son agrupaciones de elementos que nos ayudan a mantener organizado nuestra aplicación. También permiten darle 
@@ -174,7 +176,7 @@ Características:
 - El paquete debe nombrarse en minúsculas completamente, y si es estrictamente necesario añadir más de una palabra, 
   lo haremos mediante la adición de guiones bajos.
 
-[Demo](/teoria/demo_packages/profundidad/Demo.java)
+[Demo](demo_packages/profundidad/Demo.java)
 
 Estructura de paquetes del ejemplo Demo, como si de un explorador de archivos se tratara
 

@@ -253,3 +253,11 @@ paquetes o módulos.
 
 Os dejo la página de Oracle en la que se detalla su utilidad:
 [https://www.oracle.com/es/corporate/features/understanding-java-9-modules.html](https://www.oracle.com/es/corporate/features/understanding-java-9-modules.html)
+
+# ARRAYS DE OBJETOS
+Nuestro compañero de [Aula en la nube](https://www.youtube.com/watch?v=LAgn2SC9O8E&list=PLG1qdjD__qH6ULjW5iN8E45m5nkaCNbUu&index=111) cuenta de forma muy detalla, como crear Arrays de 
+objetos, que podremos aplicar a nuestros ejercicios.
+
+# ARRAYLIST DE OBJETOS
+Nuestro compañero de [Aula en la nube](https://www.youtube.com/watch?v=7IPH-Tbtb74&list=PLG1qdjD__qH6ULjW5iN8E45m5nkaCNbUu&index=111) cuenta de forma muy detalla, como crear Arrays de
+objetos, que podremos aplicar a nuestros ejercicios.

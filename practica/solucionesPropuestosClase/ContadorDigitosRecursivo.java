@@ -3,7 +3,7 @@ package practica.solucionesPropuestosClase;
 import java.util.Scanner;
 
 /**
- * @author ChatGPT y Beatriz U.
+ * @author Jordi D.
  */
 public class ContadorDigitosRecursivo {
 

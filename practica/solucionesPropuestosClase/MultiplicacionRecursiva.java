@@ -3,7 +3,7 @@ package practica.solucionesPropuestosClase;
 import java.util.Scanner;
 
 /**
- * @author chatGPT
+ * @author Jordi D.
  */
 public class MultiplicacionRecursiva {
 

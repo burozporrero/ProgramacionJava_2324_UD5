@@ -2,8 +2,7 @@
 
 ## Crear sistema de acceso
 Crear un programa que valide que usuarios pueden entrar o no a nuestro sistema. Solicitaremos al usuario su 
-nick y su 
-contraseña y le indicaremos si tiene permiso o no para acceder. En caso de permitirle el acceso, además le 
+nick y su contraseña y le indicaremos si tiene permiso o no para acceder. En caso de permitirle el acceso, además le 
 indicaremos la fecha de su último acceso y las veces que ha accedido a nuestra plataforma.
 
 Para resolver el ejercicio necesitaremos crear como mínimo dos clases, dejo al alumno la identificación de las mismas 

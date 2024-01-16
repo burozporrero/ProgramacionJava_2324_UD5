@@ -1,4 +1,4 @@
-package practica.solucionesPropuestosClase.trabajadores;
+package solucionesPropuestosClase.trabajadores;
 
 import java.util.ArrayList;
 import java.util.Scanner;
@@ -91,7 +91,7 @@ public class GestionTrabajadores {
 
     public static void addTrabajadores() {
 
-        boolean addMore = false;
+        boolean addMore = Boolean.FALSE;
         String texto = SI;
 
         if(listaProyectosEmpresa.isEmpty()) {

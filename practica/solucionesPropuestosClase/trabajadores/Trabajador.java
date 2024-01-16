@@ -1,4 +1,4 @@
-package practica.solucionesPropuestosClase.trabajadores;
+package solucionesPropuestosClase.trabajadores;
 
 /**
  * @author Juan L. y Ángel M.

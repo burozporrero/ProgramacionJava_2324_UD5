@@ -1,4 +1,4 @@
-package practica.solucionesPropuestosClase;
+package solucionesPropuestosClase;
 
 import java.util.Scanner;
 

@@ -229,7 +229,7 @@ Crea un programa con un método que acepte un número indeterminado de argumento
 
 ## Probar estudiante
 
-Crear una clase 'Estudiante' que contenga atributos como nombre, edad y grado.
+Crear una clase 'Estudiante' que contenga atributos como nombre, edad y grado. 
 
 Luego, instancia objetos de esta clase para representar varios estudiantes, asignándoles valores y mostrando información como 'nombre, edad y grado' mediante métodos de la clase.
 
@@ -237,10 +237,10 @@ Luego, instancia objetos de esta clase para representar varios estudiantes, asig
 
 ## Gestión trabajadores
 
-Crea un programa que pida al usuario por pantalla una cantidad de trabajadores.
+Crea un programa que pida al usuario por pantalla una cantidad de trabajadores. 
 
-Después que pregunte por trabajador sus datos personales (Nombre, Edad, Sueldo) y en qué proyecto (Nombre,
-descripción) está trabajando.
+Después que pregunte por trabajador sus datos personales (Nombre, Edad, Sueldo) y en qué proyecto (Nombre, 
+descripción) está trabajando. 
 
 Para finalizar, que lo muestre por pantalla.
 
@@ -251,8 +251,8 @@ Para finalizar, que lo muestre por pantalla.
         Datos proyecto trabajador 1:
         Preguntar datos
 
-- Si no se introducen datos en un trabajador cuando se muestren los datos por pantalla tiene que salir un texto que
-  diga “vacio” (utiliza 'isEmpty')
+- Si no se introducen datos en un trabajador cuando se muestren los datos por pantalla tiene que salir un texto que 
+diga “vacio” (utiliza 'isEmpty')
 - Cuando se muestre al final la información por pantalla se tiene que mostrar en este orden
 
       Datos de trabajador 1:
@@ -283,13 +283,13 @@ Crear una clase Libro que contenga los siguientes atributos:
 - Autor
 - Número de páginas
 
-Deben de haber al menos 6 libros. Que le pidamos al usuario: el título o el ISBM del libro. Y muestre por pantalla la información del libro.
+Deben de haber al menos 6 libros. Que le pidamos al usuario: el título o el ISBM del libro. Y muestre por pantalla la información del libro.  
 
 ## Personajes y atributos
 
 ![imagen de ejemplo](imagen/personaje.jpg)
 
-A partir del ejemplo de como crear un constructor. A partir de la imagen de Ejemplo tienes que replicarlo con un constructor en Java, puede ser el mismo de la imagen o un personaje completamente nuevo.
+A partir del ejemplo de como crear un constructor. A partir de la imagen de Ejemplo tienes que replicarlo con un constructor en Java, puede ser el mismo de la imagen o un personaje completamente nuevo. 
 
 Crea un constructor con la clase Personaje.
 
@@ -298,3 +298,5 @@ Con los atributos: Nombre, arma1, arma2, escudo, torso, Acessorio1, accessorio2.
 Y otra clase Estadistica con los siguientes atributos: PV (puntos de vida), PH (Puntos de habilidad), AtqFis (ataque físico), AtqElem (Ataque elemental), DefFis (Defensa Física), DefElem(Defensa Elemental), Prec (Precisión), Vel (Velocidad), Cric (Crítico) y Evas (Evasión).
 
 El programa debe crear dos o más personajes y preguntar al usuario que atributo quiere saber he imprimirlo por pantalla.
+
+[Solución](solucionesPropuestosClase/Personajes/Main.java)

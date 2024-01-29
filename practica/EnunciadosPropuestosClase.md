@@ -283,7 +283,9 @@ Crear una clase Libro que contenga los siguientes atributos:
 - Autor
 - Número de páginas
 
-Deben de haber al menos 6 libros. Que le pidamos al usuario: el título o el ISBM del libro. Y muestre por pantalla la información del libro.  
+Deben de haber al menos 6 libros. Que le pidamos al usuario: el título o el ISBM del libro. Y muestre por pantalla la información del libro.
+
+[Solución](solucionesPropuestosClase/libreria/Principal.java)
 
 ## Personajes y atributos
 
